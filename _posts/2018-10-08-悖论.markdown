@@ -1,0 +1,10 @@
+---
+layout: post
+title: 悖论
+date: 2018-10-08 23:49:26 +0800
+ref_url: https://book.douban.com/subject/26171042/
+image_url: https://img1.doubanio.com/view/subject/l/public/s27661058.jpg
+reading_level: 1
+categories: game
+description: 作者用生动的语言向读者解释了横跨科学史的经典悖论，一些我们常常在游戏，电影，小说中看到的题材，在这里透过现代科学的视角被认真对待和研究。 ---- 马晓轶（腾讯集团高级副总裁）
+---

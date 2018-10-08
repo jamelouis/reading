@@ -1,0 +1,10 @@
+---
+layout: post
+title: 游戏设计艺术（第2版）
+date: 2018-10-08 23:49:26 +0800
+ref_url: https://book.douban.com/subject/26791007/
+image_url: https://img3.doubanio.com/view/subject/l/public/s28710350.jpg
+reading_level: 1
+categories: game
+description: 作者以高贵的经验从心理，建筑，音乐，电影，软件工程，数学和人类学等各种角度来帮助读者观察和思考游戏设计，对开发者和入门者都极具知道意义。 ---- 陈宇
+---

@@ -1,0 +1,25 @@
+<section class='content'>
+    <h1 class="fb fs20em pt90">{{ page.title }}</h1>
+    <p class="line fs15em"><span>{{ page.description }}</span></p>
+    <div>
+    {% for cate in site.categories %}
+        {% if cate[0] == page.cate %}
+        {% for post in cate[1] %}
+            <div class="topic-item">
+                <div class="source"><a class="fs06em" href="{{ post.ref_url }}">来自:豆瓣</a></div>
+                <div class="post">
+                <a href="{{post.url | relative_url}}">
+                    <img src="{{post.image_url}}"/>
+                </a>
+                </div>
+                <div class="title">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </div>
+                <p class='item-description'>{{ post.description }}</p>
+            </div>
+        {% endfor %}
+        {% endif %}
+    {% endfor %}
+    </div>
+</section>
+

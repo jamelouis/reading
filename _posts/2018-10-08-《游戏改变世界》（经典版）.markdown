@@ -1,0 +1,10 @@
+---
+layout: post
+title: 《游戏改变世界》（经典版）
+date: 2018-10-08 23:49:26 +0800
+ref_url: https://book.douban.com/subject/26891559/
+image_url: https://img3.doubanio.com/view/subject/l/public/s29093246.jpg
+reading_level: 1
+categories: game
+description: 作者用大量事例告诉我们，游戏可以触达人们幸福的核心，提供令人开心的奖励/刺激的挑战和宏大的胜利。 ---- 程武
+---

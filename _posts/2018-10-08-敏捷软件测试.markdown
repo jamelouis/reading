@@ -1,0 +1,10 @@
+---
+layout: post
+title: 敏捷软件测试
+date: 2018-10-08 23:56:02 +0800
+ref_url: https://book.douban.com/subject/5338399/
+image_url: https://img3.doubanio.com/view/subject/l/public/s22778583.jpg
+reading_level: 1
+categories: code
+description: 
+---

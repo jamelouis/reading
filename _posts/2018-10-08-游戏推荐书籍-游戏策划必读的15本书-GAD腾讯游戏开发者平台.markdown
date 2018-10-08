@@ -1,0 +1,10 @@
+---
+layout: post
+title: 游戏推荐书籍-游戏策划必读的15本书-GAD腾讯游戏开发者平台
+date: 2018-10-08 23:49:26 +0800
+ref_url: https://www.douban.com/url/8313035/
+image_url: https://img1.doubanio.com/view/url_subject_photo/medium/public/p7253488.jpg
+reading_level: 1
+categories: game
+description: 
+---

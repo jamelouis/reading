@@ -1,0 +1,10 @@
+---
+layout: post
+title: Game Feel
+date: 2018-10-08 23:49:26 +0800
+ref_url: https://book.douban.com/subject/4073298/
+image_url: https://img1.doubanio.com/view/subject/l/public/s4157078.jpg
+reading_level: 1
+categories: game
+description: 游戏感应当是每个游戏制作者所追求的目标，作者在现有理论的基础上分析了“游戏感”这一抽象而充满内涵的概念，对于“游戏感”更好的把握能够让游戏变得更加有趣和有深度。 ---- 夏琳（腾讯游戏学院院长）
+---

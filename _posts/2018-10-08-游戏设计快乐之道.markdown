@@ -1,0 +1,10 @@
+---
+layout: post
+title: 游戏设计快乐之道
+date: 2018-10-08 23:49:26 +0800
+ref_url: https://book.douban.com/subject/27103933/
+image_url: https://img3.doubanio.com/view/subject/l/public/s29730133.jpg
+reading_level: 1
+categories: game
+description: 这本书以一种新颖的方式，阐述了游戏设计的核心理念--“创造快乐”，以及如何把这一理念贯穿在游戏设计过程之中。 ---- 陈宇
+---
