@@ -9,7 +9,7 @@ body {
     color: $carbon;
 }
 
-li {
+.sky-bg {
     background: $sky;
 }
 
@@ -49,7 +49,7 @@ body {
 }
 
 h1 {
-    font-size: 6.5em;
+    font-size: 4em;
 }
 
 .fs30 {
@@ -63,7 +63,13 @@ h1 {
     font-style: italic;
 }
 
-
+blockquote {
+    
+    p {
+        border-left: 2px solid $carbon;
+        padding-left: 10px;
+    }
+}
 /* layout */
 body {
   max-width: 780px;
@@ -90,11 +96,6 @@ h1 {
   text-align: center;
 }
 
-li {
-    margin: 10px;
-    height: 160px;
-    clear: both;
-}
 a.topic {
   margin-top: 50px;
   margin-bottom: 20px;
@@ -103,7 +104,8 @@ a.topic {
 }
 
 p {
-  margin: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .line {
@@ -145,8 +147,12 @@ cite {
   flex: 2;
 }
 
-img {
+.w100 {
     width: 100px;
+}
+
+img {
+    width: 100%;
 }
 
 .post {
@@ -195,22 +201,34 @@ img {
     line-height: 1.5em;
 }
 
+.movie object {
+    width: 640px;
+    height: 360px;
+}
+
 @media screen and (max-width: 900px) {
   body {
     width: 520px;
-    font-size: 12px;
+    font-size: 14px;
   }
   .line:after {
       top: -12px;
   }
+
+  .movie object {
+    width: 64vw;
+    height: 36vw;
+    }
 }
 
 @media screen and (max-width: 600px) {
   body {
     width: 260px;
-    font-size: 8px;
+    font-size: 12px;
   }
-  
+  .line {
+    font-size: 1.25em;
+}
   .line:after {
       top: -10px;
   }

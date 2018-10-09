@@ -2,20 +2,7 @@
 <html lang="en">
     {% include head.html %}
     <body>
-        <header>
-            <nav>
-                <a class="fs30 fb hp" href="#">Jame Louis</a>
-                {% assign reading_level='' %}
-                {% if page.reading_level == 1 %}
-                    {% assign reading_level = site.reading_level1 %}
-                {% elsif page.reading_level == 2 %}
-                    {% assign reading_level = site.reading_level2 %}
-                {% elsif page.reading_level == 3 %}
-                    {% assign reading_level = site.reading_level3 %}
-                {% endif %}
-                <cite>{{ reading_level }}</cite>
-            </nav>     
-        </header>
+        {% include header.html %}
         <section class='post-content'>
             <h1 class="fb fs20em pt90">{{page.title}}</h1>
             <p class="line fs15em"><span></span></p>
