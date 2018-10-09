@@ -147,12 +147,13 @@ cite {
   flex: 2;
 }
 
-.w100 {
+.post-img {
     width: 100px;
 }
 
 img {
     width: 100%;
+    margin: 0;
 }
 
 .post {
@@ -201,9 +202,17 @@ img {
     line-height: 1.5em;
 }
 
+.movie {
+    text-align: center;
+}
+
 .movie object {
     width: 640px;
     height: 360px;
+}
+
+.movie-link {
+ text-align: center;
 }
 
 @media screen and (max-width: 900px) {
@@ -215,9 +224,8 @@ img {
       top: -12px;
   }
 
-  .movie object {
-    width: 64vw;
-    height: 36vw;
+  .movie  {
+        display: none;
     }
 }
 
@@ -237,9 +245,9 @@ img {
       padding: 10px;
   }
 
-  img {
-      width: 60px;
-  }
+  .post-img {
+    width: 100px;
+   }
 
   .source {
     padding-bottom: 5px;
